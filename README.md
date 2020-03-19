@@ -15,4 +15,22 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 ## Filtration Medium
 
+![P100 Filter Pads from 3M](static/3M2097P100FilterPads.png)
+
+Image source: https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud
+
 ## Initial Prototypes
+
+## Existing Ventilator Filters (not N95 compliant)
+
+#### Philips Respironics Disposable Bacterial Filter
+
+![Philips HC342077](static/PhilipsBacterialFilterHC342077.png)
+
+https://www.usa.philips.com/healthcare/product/HC342077/bacteria-filter-filter
+
+#### Moyeah CPAP Bacterial Viral Filter
+
+![Moyeah CPap Filter](static/MoyeahCPAPFilter.webp)
+
+https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
