@@ -23,7 +23,7 @@ Image source: https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Partic
 
 ### Reasoning for N95 filters
 
-![Virus Size](static/CoronaVirusSize.pjg)
+![Virus Size](static/CoronaVirusSize.jpg)
 
 ## Initial Prototypes
 
