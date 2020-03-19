@@ -8,7 +8,7 @@ The idea is similar to the bacterial filters that are on the market today that a
 
 ## Tube Connection Specifications
 
-![Tube Connection Specifications Drawing](static/FilterTubeSpecifications.jpg | width=100)
+![Tube Connection Specifications Drawing](static/FilterTubeSpecifications.jpg?s=200)
 
 ## Filtration Medium
 
