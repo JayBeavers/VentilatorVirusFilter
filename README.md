@@ -17,9 +17,20 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 ![P100 Filter Pads from 3M](static/3M2097P100FilterPads.png)
 
+110 mm Outer Diameter
+
 Image source: https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud
 
 ## Initial Prototypes
+
+### Initial Bill Of Materials
+
+* 120 mm ID O-Ring [McMaster P/N 9262K881](https://www.mcmaster.com/9262k881)
+* M4 x 0.7 mm, 12 mm long [McMaster P/N 91294A192](https://www.mcmaster.com/91294a192)
+* M4 x 0.4 mm, Nylon Locknuts [McMaster P/N 90576A103](https://www.mcmaster.com/90576a103)
+* 3M P100 Filters, 4.3" OD [3M 2097](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud)
+* Upper & Lower 3D printed housing (TBD)
+* XTC 3D Resin Coating for 3D prints (sealant) [XTC 3D](https://www.smooth-on.com/products/xtc-3d/)
 
 ## Existing Ventilator Filters (not N95 compliant)
 
