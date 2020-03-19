@@ -10,7 +10,7 @@ The idea is similar to the bacterial filters that are on the market today that a
 
 ![Tube Connection Specifications Drawing](static/FilterTubeSpecifications.jpg)
 
-https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
+Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 
 ## Filtration Medium
