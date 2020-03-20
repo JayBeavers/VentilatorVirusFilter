@@ -12,7 +12,6 @@ The idea is similar to the bacterial filters that are on the market today that a
 
 Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
-
 ## Filtration Medium
 
 ### P100 Mask Filter from 3M
@@ -25,7 +24,7 @@ Image source: https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Partic
 
 ### Microfiber Cleaning Cloths
 
-![Microfiber as a filter](static/HKMaskFiltrationMedium.jpg)
+![HK Study of Filtration Material](static/HKMaskFiltrationMedium.jpg)
 
 Image source: https://www.facebook.com/photo/?fbid=10157887204312158&set=a.10157616487867158
 
@@ -35,11 +34,23 @@ https://www.amazon.com/Microfiber-Cleaning-Cloths-Spectacles-Silverware/dp/B07V8
 
 ### Saline soaked and dried for improved filtration
 
+Why: [Universal and Reusable Virus Deactivation System for Repiratory Protection](static/UniversalAndReusableVirusDeactivationSystemForRespiratoryProtection.pdf)
+
 https://www.facebook.com/MrHenryBemis/posts/10159579527538858 ([PDF Capture](static/SalineSoakingProcedureAndReferences))
 
 ### Reasoning for N95 filters
 
 ![Virus Size](static/CoronaVirusSize.jpg)
+
+### Studies in filtration material
+
+[Best DIY Filters](static/BestDIYFilters.pdf)
+
+![Best DIY Materials 0.02 Micron](BestDIYMaterials002Micron.jpg)
+
+[Testing The Efficacy of Homemade Masks](static/TestingTheEfficacyOfHomemadeMasks.pdf)
+
+![MaterialsFiltration](static/TestingEfficacyHomemadeMasks.jpg)
 
 ## Initial Prototypes
 
