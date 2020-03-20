@@ -36,7 +36,8 @@ https://www.amazon.com/Microfiber-Cleaning-Cloths-Spectacles-Silverware/dp/B07V8
 
 Why: [Universal and Reusable Virus Deactivation System for Repiratory Protection](static/UniversalAndReusableVirusDeactivationSystemForRespiratoryProtection.pdf)
 
-https://www.facebook.com/MrHenryBemis/posts/10159579527538858 ([PDF Capture](static/SalineSoakingProcedureAndReferences))
+Saline Soaking Preparation Procedure ([PDF Capture](static/SalineSoakingProcedureAndReferences))
+Source: https://www.facebook.com/MrHenryBemis/posts/10159579527538858
 
 ### Reasoning for N95 filters
 
