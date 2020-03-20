@@ -14,6 +14,11 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 ## Filtration Medium
 
+*Personal Conclusion:*
+
+* Use N95 or P100 filters when available
+* When creating DIY filtration medium, use microfiber cloths (82% filtration) soaked & dried in a saturated saline/soap solution
+
 ### P100 Mask Filter from 3M
 
 ![P100 Filter Pads from 3M](static/3M2097P100FilterPads.png)
