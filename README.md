@@ -47,7 +47,7 @@ Source: https://www.facebook.com/MrHenryBemis/posts/10159579527538858
 
 [Best DIY Filters](static/BestDIYFilters.pdf)
 
-![Best DIY Materials 0.02 Micron](BestDIYMaterials002Micron.jpg)
+![Best DIY Materials 0.02 Micron](static/BestDIYMaterials002Micron.jpg)
 
 [Testing The Efficacy of Homemade Masks](static/TestingTheEfficacyOfHomemadeMasks.pdf)
 
