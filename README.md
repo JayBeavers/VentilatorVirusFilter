@@ -6,12 +6,6 @@ The project is motivated to help protect people living with ALS who are high ris
 
 The idea is similar to the bacterial filters that are on the market today that are designed to reduce bacterial spread between shared ventilator users.  The difference is that this filter design will use off the shelf respirator filters from face masks and will use commonly available hardware plus a 3D printed enclosure to make it easy to quickly source during this time of worldwide epidemic.
 
-## Tube Connection Specifications
-
-![Tube Connection Specifications Drawing](static/FilterTubeSpecifications.jpg)
-
-Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
-
 ## Filtration Medium
 
 *Personal Conclusion:*
@@ -57,6 +51,12 @@ Source: https://www.facebook.com/MrHenryBemis/posts/10159579527538858
 [Testing The Efficacy of Homemade Masks](static/TestingTheEfficacyOfHomemadeMasks.pdf)
 
 ![MaterialsFiltration](static/TestingEfficacyHomemadeMasks.jpg)
+
+## Tube Connection Specifications
+
+![Tube Connection Specifications Drawing](static/FilterTubeSpecifications.jpg)
+
+Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 ## Initial Prototypes
 
