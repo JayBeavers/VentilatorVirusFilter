@@ -15,11 +15,27 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 
 ## Filtration Medium
 
+### P100 Mask Filter from 3M
+
 ![P100 Filter Pads from 3M](static/3M2097P100FilterPads.png)
 
 110 mm Outer Diameter
 
 Image source: https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud
+
+### Microfiber Cleaning Cloths
+
+![Microfiber as a filter](static/HKMaskFiltrationMedium.jpg)
+
+Image source: https://www.facebook.com/photo/?fbid=10157887204312158&set=a.10157616487867158
+
+https://diymask.site/
+
+https://www.amazon.com/Microfiber-Cleaning-Cloths-Spectacles-Silverware/dp/B07V8299LG
+
+### Saline soaked and dried for improved filtration
+
+https://www.facebook.com/MrHenryBemis/posts/10159579527538858 ([PDF Capture](static/SalineSoakingProcedureAndReferences))
 
 ### Reasoning for N95 filters
 
