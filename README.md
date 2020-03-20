@@ -63,6 +63,7 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 ### Initial Bill Of Materials
 
 * 120 mm ID O-Ring (seal around filter for assembled upper & lower housing), [McMaster P/N 9262K881](https://www.mcmaster.com/9262k881)
+* 28 mm ID O-Ring (seal between air inflow and filter pad), [McMaster P/N 9262k405](https://www.mcmaster.com/9262k405)
 * M4 x 0.7 mm, 12 mm long Philips head screws, [McMaster P/N 91294A192](https://www.mcmaster.com/91294a192)
 * M4 x 0.4 mm, Nylon Locknuts, [McMaster P/N 90576A103](https://www.mcmaster.com/90576a103)
 * 3M P100 Filters, 4.3" OD, [3M 2097](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud)
