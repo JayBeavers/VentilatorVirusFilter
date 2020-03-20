@@ -6,6 +6,8 @@ The project is motivated to help protect people living with ALS who are high ris
 
 The idea is similar to the bacterial filters that are on the market today that are designed to reduce bacterial spread between shared ventilator users.  The difference is that this filter design will use off the shelf respirator filters from face masks and will use commonly available hardware plus a 3D printed enclosure to make it easy to quickly source during this time of worldwide epidemic.
 
+![3M 2097 P100 Inline Air Filter prototype](static/InlineM32097Filter-200320.01.png)
+
 ## Filtration Medium
 
 *Personal Conclusion:*
@@ -69,6 +71,12 @@ Image source: https://www.gearbest.com/sleeping-aids/pp_3003173012343574.html
 * 3M P100 Filters, 4.3" OD, [3M 2097](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Filter-2097-07184-AAD-P100-with-Nuisance-Level-Organic-Vapor-Relief-100-EA-Case/?N=5002385+3294780246&rt=rud)
 * Upper & Lower 3D printed housing (TBD)
 * XTC 3D Resin Coating for 3D prints (sealant), [XTC 3D](https://www.smooth-on.com/products/xtc-3d/)
+
+### Initial CAD design for inline filter housing
+
+![3M 2097 P100 Inline Air Filter prototype](static/InlineM32097Filter-200320.01.png)
+Note: this model requires ~16 hours of print time on a Prusa Model 3S printer.
+
 
 ## Existing Ventilator Filters (not N95 compliant)
 
